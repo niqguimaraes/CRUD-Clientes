@@ -1,7 +1,9 @@
 <h1 align="center">CRUD em Laravel</h1>
 
 ## :memo: Descrição
-CRUD de cliente feito em Laravel para estudos.<br>
+CRUD de cliente feito em Laravel para estudos<br>
+Estudando Laravel para uso do framework em projetos<br>
+
 Banco de dados: clientes
 
 ## Tecnologias utilizadas
